@@ -6,4 +6,3 @@ In this project, I tried to simulate the whole world cup matches to get to know 
 
 The whole data files is provided. 
 
-source: Frank Andrade. 
